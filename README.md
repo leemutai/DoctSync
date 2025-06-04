@@ -6,6 +6,7 @@ A full-featured **MERN Stack Application** for managing doctor-patient interacti
 
 ## 🔗 Live Demo
 [🌐 Visit the Live App on Render](https://doctsync-frontend.onrender.com)
+[🌐 Visit the Live App on Render](https://doctsync-admin.onrender.com)
 
 ---
 
