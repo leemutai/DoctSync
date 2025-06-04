@@ -47,7 +47,7 @@ A full-featured **MERN Stack Application** for managing doctor-patient interacti
 - **User (Patient)**
   - Book appointments
   - View prescriptions
-  - Make payments via M-PESA or Razorpay
+  - Make payments via M-PESA
 
 All routes are protected using role-based JWT authentication.
 
