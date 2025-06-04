@@ -10,7 +10,7 @@ function Footer() {
             <img className='mb-5 w-40' src={assets.logo} alt="" />
             <p className='w-full md:w-2/3 text-gray-600 leading-6'>Prescripto is a modern, digital-first healthcare management platform designed to simplify the way patients, doctors, and administrators connect. Whether you're booking appointments, consulting with a physician, or managing health data, Prescripto brings healthcare to your fingertips fast, secure, and personalized.
 
-With real-time scheduling, secure payment integrations like M-PESA and Razorpay, and smart reminders, we ensure your health always comes first wherever you are..</p>
+With real-time scheduling, secure payment integrations like M-PESA, and smart reminders, we ensure your health always comes first wherever you are.</p>
 
         </div>
         {/* ------Middle/center Section------- */}
